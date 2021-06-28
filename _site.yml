@@ -66,6 +66,14 @@ navbar:
           href: ./Analyses/Logistic Regression/MyLogisticRegression.html
         - text: "My Chi-sqaured Test"
           href: ./Analyses/Chi Squared Tests/MyChiSquaredTest.html
+    - text: "Data Wrangling"
+      menu:
+        - text: "Data Wrangling Examples"
+          href: ./Analyses/AnalysisRubric.html
+    - text: "R Overview"
+      menu:
+        - text: "Introduction to R Studio"
+          href: ./Analyses/AnalysisRubric.html
 
 
           
