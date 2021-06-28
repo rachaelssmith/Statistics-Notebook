@@ -11,13 +11,58 @@ output:
 
 
 
-### R
+### Software
+
+
+#### R Studio
+
+![](./Images/RStudioLogo.png)
+
+R Studio Desktop is an interface for R, full of libraries that makes professional statistical anaylsis and charts possible. 
+
+#### [Install Rstudio Desktop](https://www.rstudio.com/products/rstudio/)
+
+###### To Learn more about R Studio, visit [Rstudio.com](https://www.rstudio.com/products/rstudio/)
+
+-----
+
+#### R Statistical Software
+
 ![](./Images/Rlogo.jpeg)\
 
-R is a programming 
+R is a programming language for statistical analysis, and is the backbone for R studio.  R uses a lot of complicated 
 
-### R Studio
-![](./Images/RStudioLogo.png)
+
+#### [Install R](https://cran.r-project.org/mirrors.html)
+
+###### To Learn more about R, visit [R-project.org](https://www.r-project.org/)
+
+
+### Libraries
+
+Libraries are the backbone of R Studio.  You must install new libraries before using them on every computer.  It only takes a few seconds for most libraries.  
+
+#### Install a Library
+
+You will need to install new libraries the first time you use them.
+
+install.packages("library_name_goes_here")
+
+#### Use a Library
+
+library("library_name_goes_here")
+
+#### Get library help
+
+If you don't know what a library does or 
+
+?library_name_goes_here
+or 
+??library_name_goes_here
+
+Tidyverse
+
+Stringr
 
 
 ##

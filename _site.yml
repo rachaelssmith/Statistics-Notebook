@@ -12,6 +12,8 @@ navbar:
           href: RCheatSheetsAndNotes.html
         - text: "Data Sources"
           href: DataSources.html
+        - text: "Introduction to R Studio"
+          href: ROverview.html
     - text: "Describing Data"
       menu:
         - text: "Graphical Summaries"
@@ -69,10 +71,6 @@ navbar:
     - text: "Data Wrangling"
       menu:
         - text: "Data Wrangling Examples"
-          href: ./Analyses/AnalysisRubric.html
-    - text: "R Overview"
-      menu:
-        - text: "Introduction to R Studio"
           href: ./Analyses/AnalysisRubric.html
 
 
